@@ -6,10 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js",
-    "start": "node index"
+    "start": "node index.js"
   },
   "files": [
-    "lib/config.js"
+    "lib/**/*",
+    "img/**/*"
   ],
   "repository": {
     "type": "git",
