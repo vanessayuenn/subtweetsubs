@@ -1,5 +1,7 @@
-var express = require('express')
-var app = express()
+var express = require('express');
+var app = express();
+
+import './tweets';
 
 app.get('/', function (req, res) {
   res.send('Hello 🌭!')
