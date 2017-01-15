@@ -1,5 +1,6 @@
-import express from 'express';
-import { initStream } from './tweets';
+require('babel-register');
+const express = require('express');
+const { initStream } = require('./lib/tweets');
 
 var app = express();
 
