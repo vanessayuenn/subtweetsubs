@@ -1,22 +1,34 @@
 const SUBS = [
   {
-    filePath: './img/nyancat.gif',
-    keyword: 'sloppy basic cat'
+    filePath: './img/basic.png',
+    keyword: 'basic basicbitch bitch bland boring white'
   },{
-    filePath: './img/mindblown.gif',
-    keyword: 'mind blown wtf'
+    filePath: './img/dead.png',
+    keyword: 'dead ded dedd dying omg gone bye'
   },{
-    filePath: './img/lungs.gif',
-    keyword: 'breath organ blood'
+    filePath: './img/fishy.png',
+    keyword: 'fishy suspicious hmm dubious dube shady'
   },{
-    filePath: './img/payattention.gif',
-    keyword: 'man baby whine'
+    filePath: './img/nope.png',
+    keyword: 'nope hellno nopenope no naw nah nahbro nawbro naynay'
   },{
-    filePath: './img/idontneedyou.gif',
-    keyword: 'sass i dont need you'
+    filePath: './img/salad.png',
+    keyword: 'salad sexy gimme iwant sex fuck crush nsa sext casual bae'
   },{
-    filePath: './img/wtfcat.gif',
-    keyword: 'wtf cat kitty meow'
+    filePath: './img/salty.png',
+    keyword: 'salty ouch burn briny smug smarmy bitchy ohsnap snap'
+  },{
+    filePath: './img/sauced.png',
+    keyword: 'sauced drunk high outtacontrol'
+  },{
+    filePath: './img/saucy.png',
+    keyword: 'saucy messy luscious succulent slippery wet moist'
+  },{
+    filePath: './img/spicy.png',
+    keyword: 'spicy caliente hot hawt hotsauceinmybag bey beyonce hotsauce peppery tangy zesty'
+  },{
+    filePath: './img/yass.png',
+    keyword: 'yass yaas yaass yaaasss yas yaaass yasss yes yeah yea yup si oui sim broadcity'
   }
 ];
 
